@@ -1,0 +1,1043 @@
+{
+  "movies": [
+    {
+      "0": {
+        "adult": false,
+        "backdrop_path": "/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
+        "genre_ids": [
+          16,
+          12,
+          10751,
+          35
+        ],
+        "id": 1241982,
+        "original_language": "en",
+        "original_title": "Moana 2",
+        "overview": "Получив вызов от предков-искателей, Моана и Мауи отправляются в далёкие и опасные воды Океании.",
+        "popularity": 220.0556,
+        "poster_path": "/wrg0C7sw1T1ogXvS8P4kiawY9xv.jpg",
+        "release_date": "2024-11-21",
+        "title": "Моана 2",
+        "video": false,
+        "vote_average": 7.118,
+        "vote_count": 2096,
+        "hashtags": [
+          "#animation",
+          "#adventure",
+          "#family",
+          "#comedy"
+        ]
+      },
+      "1": {
+        "adult": false,
+        "backdrop_path": "/sulUXRukzh7WSK34y8mnaUcHo3y.jpg",
+        "genre_ids": [
+          10749,
+          35,
+          18
+        ],
+        "id": 1254786,
+        "original_language": "en",
+        "original_title": "The Life List",
+        "overview": "Дочь прощается с матерью и отправляется в путь, чтобы исполнить свои подростковые мечты. В процессе она раскрывает семейные тайны, находит любовь и заново обретает себя.",
+        "popularity": 171.316,
+        "poster_path": "/5fg98cVo7da7OIK45csdLSd4NaU.jpg",
+        "release_date": "2025-03-27",
+        "title": "Список заветных желаний",
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 60,
+        "hashtags": [
+          "#romance",
+          "#comedy",
+          "#drama"
+        ]
+      },
+      "2": {
+        "adult": false,
+        "backdrop_path": "/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+        "genre_ids": [
+          28,
+          878,
+          35,
+          10751,
+          12,
+          14
+        ],
+        "id": 939243,
+        "original_language": "en",
+        "original_title": "Sonic the Hedgehog 3",
+        "overview": "Соник, Наклз и Тейлз воссоединяются против нового могущественного противника, Ежа Шэдоу, таинственного злодея с силами, не похожими ни на что, с чем они сталкивались раньше. Команда Соника вынуждена создать неожиданный союз в надежде остановить Шэдоу и защитить планету.",
+        "popularity": 150.0364,
+        "poster_path": "/sj8AqCcpfdILdP5fhFVJLdx2NfF.jpg",
+        "release_date": "2024-12-19",
+        "title": "Соник 3 в Кино",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 2298,
+        "hashtags": [
+          "#action",
+          "#scifi",
+          "#comedy",
+          "#family",
+          "#adventure",
+          "#fantasy"
+        ]
+      },
+      "3": {
+        "adult": false,
+        "backdrop_path": "/AtciHGgpOU7ngsVhXbS2S5Spdlv.jpg",
+        "genre_ids": [
+          28,
+          35
+        ],
+        "id": 1077782,
+        "original_language": "en",
+        "original_title": "Old Guy",
+        "overview": "Отставной киллер Дэнни Долински по-прежнему считает себя непревзойденным мастером своего дела. И он чертовски доволен, когда его работодатели предлагают ему новою миссию. Но, как оказалось, Дэнни будет лишь помогать «оттачивать ремесло» юному убийце-вундеркинду Вильборгу — пареньку, который здорово стреляет, но помимо «объекта», «кладет» кучу случайных прохожих.  Новоявленной и плохо совместимой парочке требуется устранить лидера конкурирующего преступного синдиката. Но скоро становится понятно, что это задание — всего лишь ловушка: хитроумные конкуренты планируют ликвидировать их самих. Теперь, чтобы выжить, потребуются не только искусство старого киллера, но и молодой задор его напарника.",
+        "popularity": 128.2014,
+        "poster_path": "/8GHtDe4Lkcv9i3AcXCFBNQJcGH1.jpg",
+        "release_date": "2024-12-13",
+        "title": "Киллер в отставке",
+        "video": false,
+        "vote_average": 5.516,
+        "vote_count": 61,
+        "hashtags": [
+          "#action",
+          "#comedy"
+        ]
+      },
+      "4": {
+        "adult": false,
+        "backdrop_path": "/wM2Yxpihaz8ZJDXYlO1mrgyfI8f.jpg",
+        "genre_ids": [
+          27,
+          35
+        ],
+        "id": 1124620,
+        "original_language": "en",
+        "original_title": "The Monkey",
+        "overview": "Братья-близнецы Хэл и Билл находят на чердаке заводную обезьянку, принадлежавшую их отцу. С каждой вспышкой ее механических глаз следуют смерти - жестокие, необъяснимые, похожие на цепь зловещих совпадений. Годы спустя кошмар возвращается, и мрачная игра продолжается. Тьма сгущается, страх усиливается, а реальность становится призрачной, превращая происходящее в пугающий лабиринт. Никто не знает, когда обезьянка хлопнет в ладоши в последний раз и кто исчезнет следом. Незримая сила ведет эту игру, а правила остаются тайной. Основан на одноименном рассказе Стивена Кинга.",
+        "popularity": 108.6636,
+        "poster_path": "/ehrnPGBOA7EDYDYijNQxcEWLW9F.jpg",
+        "release_date": "2025-02-14",
+        "title": "Обезьяна",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 315,
+        "hashtags": [
+          "#horror",
+          "#comedy"
+        ]
+      },
+      "5": {
+        "adult": false,
+        "backdrop_path": "/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+        "genre_ids": [
+          10751,
+          35,
+          12,
+          14
+        ],
+        "id": 950387,
+        "original_language": "en",
+        "original_title": "A Minecraft Movie",
+        "overview": "Четыре неудачника — Гарретт «Мусорщик» Гаррисон, Генри, Натали и Дон, сталкиваются с обычными проблемами, когда их внезапно затягивает через таинственный портал в Верхний мир: странную кубическую страну чудес, которая процветает благодаря воображению. Чтобы вернуться домой, им придётся освоить этот мир, отправляясь в магическое путешествие с неожиданным экспертом-ремесленником Стивом. Это приключение бросит вызов всем пятерым, заставит их проявить смелость и восстановить качества, которые делают каждого из них уникальным творческим человеком.",
+        "popularity": 104.9938,
+        "poster_path": "/3qG3t8UrWZ26N4mFm0K6KMQVYaQ.jpg",
+        "release_date": "2025-03-31",
+        "title": "Minecraft в Кино",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 16,
+        "hashtags": [
+          "#family",
+          "#comedy",
+          "#adventure",
+          "#fantasy"
+        ]
+      },
+      "6": {
+        "adult": false,
+        "backdrop_path": "/9p2tVEEWw1M92Pt63Vbq7EjBpvk.jpg",
+        "genre_ids": [
+          35,
+          27,
+          878,
+          53
+        ],
+        "id": 1084199,
+        "original_language": "en",
+        "original_title": "Companion",
+        "overview": "Джош приобретает себе секс-андроида Айрис. Она должна во всём слушаться своего хозяина и выполнять любые его прихоти, однако со временем начинает замечать странности в окружении и своём поведении. Вскоре Айрис узнаёт, что Джош взломал её и изменил программу, чтобы создать идеальную женщину.",
+        "popularity": 101.8967,
+        "poster_path": "/wxFGXmNmFf9Y38XQVsMIrqIom8f.jpg",
+        "release_date": "2025-01-22",
+        "title": "Компаньон",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 914,
+        "hashtags": [
+          "#comedy",
+          "#horror",
+          "#scifi",
+          "#thriller"
+        ]
+      },
+      "7": {
+        "adult": false,
+        "backdrop_path": "/lsgT602GYV8ts97sKH1gWFtQs1k.jpg",
+        "genre_ids": [
+          16,
+          12,
+          35,
+          10751,
+          14
+        ],
+        "id": 1104845,
+        "original_language": "en",
+        "original_title": "Plankton: The Movie",
+        "overview": "Запутанная история любви Планктона и его компьютерной жены идёт наперекосяк, когда она принимает решение уничтожить мир без него.",
+        "popularity": 86.3262,
+        "poster_path": "/eBKTuP9w4BlRKeGU2BAMPCCcUG7.jpg",
+        "release_date": "2025-03-08",
+        "title": "Шелдон Планктон: Фильм",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 64,
+        "hashtags": [
+          "#animation",
+          "#adventure",
+          "#comedy",
+          "#family",
+          "#fantasy"
+        ]
+      },
+      "8": {
+        "adult": false,
+        "backdrop_path": "/jl2YIADk391yc6Qjy9JhgCRkHJk.jpg",
+        "genre_ids": [
+          16,
+          18,
+          35
+        ],
+        "id": 1064486,
+        "original_language": "en",
+        "original_title": "Memoir of a Snail",
+        "overview": "Австралия, 1970-е. В городе Кранберри живёт одинокая женщина по имени Грейс Пудл. Она любит читать любовные романы и коллекционировать декоративных улиток. Однажды в её жизни появляется Пинки — пожилая и эксцентричная женщина, с которой они становятся близкими подругами. С этого момента жизнь Грейс снова наполняется радостью и яркими красками.",
+        "popularity": 77.6109,
+        "poster_path": "/5tsnwOU1BX1v9ifpFgeVd7i0yMe.jpg",
+        "release_date": "2024-10-17",
+        "title": "Мемуары улитки",
+        "video": false,
+        "vote_average": 7.957,
+        "vote_count": 335,
+        "hashtags": [
+          "#animation",
+          "#drama",
+          "#comedy"
+        ]
+      },
+      "9": {
+        "adult": false,
+        "backdrop_path": "/qUc0Hol3eP74dbW4YyqT6oRLYgT.jpg",
+        "genre_ids": [
+          878,
+          35,
+          12
+        ],
+        "id": 696506,
+        "original_language": "en",
+        "original_title": "Mickey 17",
+        "overview": "\"Одноразовый сотрудник\" участвует в колонизации ледяного мира. После смерти Микки, его сознание каждый раз загружается в новое тело.",
+        "popularity": 69.2313,
+        "poster_path": "/dsHWBit2DkXohujpBIJL7ftPUQF.jpg",
+        "release_date": "2025-02-28",
+        "title": "Микки 17",
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 1026,
+        "hashtags": [
+          "#scifi",
+          "#comedy",
+          "#adventure"
+        ]
+      },
+      "10": {
+        "adult": false,
+        "backdrop_path": "/u7AZ5CdT2af8buRjmYCPXNyJssd.jpg",
+        "genre_ids": [
+          28,
+          35
+        ],
+        "id": 1160956,
+        "original_language": "zh",
+        "original_title": "熊猫计划",
+        "overview": "Международная звезда кунг-фу Джеки берёт под опеку детёныша большой панды Ху Ху. Из-за того что у животного необычные глаза, международный преступный синдикат, жаждя заполучить редкий ген, объявляет награду за поимку Ху Ху. Джеки не может остаться в стороне и вступает с негодяями в противостояние.",
+        "popularity": 72.704,
+        "poster_path": "/xlaeAdTMZVZJe7zNDyOI3Enf7rq.jpg",
+        "release_date": "2024-10-01",
+        "title": "Операция «Панда»",
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 166,
+        "hashtags": [
+          "#action",
+          "#comedy"
+        ]
+      },
+      "11": {
+        "adult": false,
+        "backdrop_path": "/by8z9Fe8y7p4jo2YlW2SZDnptyT.jpg",
+        "genre_ids": [
+          28,
+          35,
+          878
+        ],
+        "id": 533535,
+        "original_language": "en",
+        "original_title": "Deadpool & Wolverine",
+        "overview": "Уэйд Уилсон попадает в организацию \"Управление временными изменениями\", что вынуждает его вернуться к своему альтер-эго Дэдпулу и изменить историю с помощью Росомахи.",
+        "popularity": 66.9084,
+        "poster_path": "/8uOIWsrHvBTeZP4LSf25NomvLb6.jpg",
+        "release_date": "2024-07-24",
+        "title": "Дэдпул и Росомаха",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 6968,
+        "hashtags": [
+          "#action",
+          "#comedy",
+          "#scifi"
+        ]
+      },
+      "12": {
+        "adult": false,
+        "backdrop_path": "/lgkPzcOSnTvjeMnuFzozRO5HHw1.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          35,
+          878
+        ],
+        "id": 519182,
+        "original_language": "en",
+        "original_title": "Despicable Me 4",
+        "overview": "Всё стало ещё чуть более гадким... Грю сталкивается с новым врагом в лице Максима Ле Маля и его роковой подруги Валентины, в связи с чем семья вынуждена бежать.",
+        "popularity": 63.4427,
+        "poster_path": "/ppSdlmiEmfjsdx9jNHfJ2DQ2IVp.jpg",
+        "release_date": "2024-06-20",
+        "title": "Гадкий я 4",
+        "video": false,
+        "vote_average": 7.054,
+        "vote_count": 2659,
+        "hashtags": [
+          "#animation",
+          "#family",
+          "#comedy",
+          "#scifi"
+        ]
+      },
+      "13": {
+        "adult": false,
+        "backdrop_path": "/aGgr2Q07AcyiWPGODoofgZDUEHp.jpg",
+        "genre_ids": [
+          28,
+          35,
+          10749
+        ],
+        "id": 1226406,
+        "original_language": "en",
+        "original_title": "Love Hurts",
+        "overview": "Марвин Гейбл ведёт успешную жизнь риэлтора в респектабельном пригороде Милуоки. Однажды он получает загадочный конверт от женщины по имени Роуз, которую он когда-то бросил на верную смерть. Она сообщает, что Марвина разыскивает его брат Наклз, криминальный авторитет. Оказывается, за улыбкой и хорошими манерами преуспевающего агента по продаже недвижимости скрывается тёмное преступное прошлое.",
+        "popularity": 61.3771,
+        "poster_path": "/350Cvt8tlGZeBUUgvbpJzFwz1Wm.jpg",
+        "release_date": "2025-02-06",
+        "title": "Любовь - Боль",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 136,
+        "hashtags": [
+          "#action",
+          "#comedy",
+          "#romance"
+        ]
+      },
+      "14": {
+        "adult": false,
+        "backdrop_path": "/x8Kdi1OJbewkeGuijcSmUWrYyk2.jpg",
+        "genre_ids": [
+          28,
+          35,
+          10751,
+          878
+        ],
+        "id": 926670,
+        "original_language": "en",
+        "original_title": "Henry Danger: The Movie",
+        "overview": "Опасного Генри и его новую помощницу засасывает в портал в другие миры. Теперь они должны найти дорогу обратно в Дистопию... или застрять в ловушке навсегда.",
+        "popularity": 64.2482,
+        "poster_path": "/dFWj2rOGsqSIX1PHFghbCBgpMnk.jpg",
+        "release_date": "2025-01-17",
+        "title": "Опасный Генри. Фильм",
+        "video": false,
+        "vote_average": 7.769,
+        "vote_count": 188,
+        "hashtags": [
+          "#action",
+          "#comedy",
+          "#family",
+          "#scifi"
+        ]
+      },
+      "15": {
+        "adult": false,
+        "backdrop_path": "/wHVkV7XML3IEFT355QlZ9uUc03V.jpg",
+        "genre_ids": [
+          10751,
+          12,
+          35
+        ],
+        "id": 935766,
+        "original_language": "pt",
+        "original_title": "Chico Bento e a Goiabeira Maraviosa",
+        "overview": "",
+        "popularity": 51.1198,
+        "poster_path": "/d2K7Zhw9yRjzoa4HBbrjt7aqlgT.jpg",
+        "release_date": "2025-01-09",
+        "title": "Chico Bento e a Goiabeira Maraviosa",
+        "video": false,
+        "vote_average": 7.924,
+        "vote_count": 33,
+        "hashtags": [
+          "#family",
+          "#adventure",
+          "#comedy"
+        ]
+      },
+      "16": {
+        "adult": false,
+        "backdrop_path": "/kEYWal656zP5Q2Tohm91aw6orlT.jpg",
+        "genre_ids": [
+          18,
+          35,
+          10749
+        ],
+        "id": 1064213,
+        "original_language": "en",
+        "original_title": "Anora",
+        "overview": "Молодая стриптизёрша из Бруклина внезапно выходит замуж за сына русского олигарха. Узнав об этом, родители парня тотчас вылетают из Москвы в Нью-Йорк. Они готовы на всё, лишь бы расстроить брак.",
+        "popularity": 57.4977,
+        "poster_path": "/lA51ZjHnbVmReYeFBAt2T0LPHAO.jpg",
+        "release_date": "2024-10-14",
+        "title": "Анора",
+        "video": false,
+        "vote_average": 7.052,
+        "vote_count": 1922,
+        "hashtags": [
+          "#drama",
+          "#comedy",
+          "#romance"
+        ]
+      },
+      "17": {
+        "adult": false,
+        "backdrop_path": "/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
+        "genre_ids": [
+          16,
+          12,
+          35,
+          10751
+        ],
+        "id": 1022789,
+        "original_language": "en",
+        "original_title": "Inside Out 2",
+        "overview": "Головной отдел мозга Райли внезапно подвергается капитальному ремонту в тот момент, когда необходимо освободить место для чего-то совершенно неожиданного: новых эмоций.  Радость, Печаль, Гнев, Страх и Брезгливость, которые уже давно успешно руководят эмоциональными процессами, не знают, что и чувствовать, когда появляется некая… Тревожность. И похоже, не только она.",
+        "popularity": 53.9804,
+        "poster_path": "/5fXrqBIvatwSuph7nTuSETBQYxm.jpg",
+        "release_date": "2024-06-11",
+        "title": "Головоломка 2",
+        "video": false,
+        "vote_average": 7.557,
+        "vote_count": 5698,
+        "hashtags": [
+          "#animation",
+          "#adventure",
+          "#comedy",
+          "#family"
+        ]
+      },
+      "18": {
+        "adult": false,
+        "backdrop_path": "/2jllAxMf7dTMt1fw9A1slsaj6Fv.jpg",
+        "genre_ids": [
+          35,
+          53,
+          18
+        ],
+        "id": 1362608,
+        "original_language": "fi",
+        "original_title": "Pikku Siperia",
+        "overview": "Пастор начинает сомневаться в свей вере, когда на его маленький финский город падает метеорит, который порождает суматоху и привлекает преступников.",
+        "popularity": 44.3277,
+        "poster_path": "/hI2X3rkJQJfbdn0P8mgTGORsqXF.jpg",
+        "release_date": "2025-03-20",
+        "title": "Маленькая Сибирь",
+        "video": false,
+        "vote_average": 6,
+        "vote_count": 44,
+        "hashtags": [
+          "#comedy",
+          "#thriller",
+          "#drama"
+        ]
+      },
+      "19": {
+        "adult": false,
+        "backdrop_path": "/sNx1A3822kEbqeUxvo5A08o4N7o.jpg",
+        "genre_ids": [
+          28,
+          35,
+          53
+        ],
+        "id": 1195506,
+        "original_language": "en",
+        "original_title": "Novocaine",
+        "overview": "Нейтан Кейн — скромный парень, рождённый с редким генетическим заболеванием, которое делает его невосприимчивым к физической боли. Когда девушка его мечты оказывается в заложниках у грабителей банка, Нейтану приходится обратить свой недуг в суперсилу.",
+        "popularity": 45.4325,
+        "poster_path": "/sPHcPY7eKqw2FHTMkpwMr1CRQB1.jpg",
+        "release_date": "2025-03-12",
+        "title": "Новокаин",
+        "video": false,
+        "vote_average": 7.025,
+        "vote_count": 121,
+        "hashtags": [
+          "#action",
+          "#comedy",
+          "#thriller"
+        ]
+      },
+      "id": "80d7"
+    },
+    {
+      "0": {
+        "adult": false,
+        "backdrop_path": "/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
+        "genre_ids": [
+          16,
+          12,
+          10751,
+          35
+        ],
+        "id": 1241982,
+        "original_language": "en",
+        "original_title": "Moana 2",
+        "overview": "Получив вызов от предков-искателей, Моана и Мауи отправляются в далёкие и опасные воды Океании.",
+        "popularity": 220.0556,
+        "poster_path": "/wrg0C7sw1T1ogXvS8P4kiawY9xv.jpg",
+        "release_date": "2024-11-21",
+        "title": "Моана 2",
+        "video": false,
+        "vote_average": 7.118,
+        "vote_count": 2096,
+        "hashtags": [
+          "#animation",
+          "#adventure",
+          "#family",
+          "#comedy"
+        ]
+      },
+      "1": {
+        "adult": false,
+        "backdrop_path": "/sulUXRukzh7WSK34y8mnaUcHo3y.jpg",
+        "genre_ids": [
+          10749,
+          35,
+          18
+        ],
+        "id": 1254786,
+        "original_language": "en",
+        "original_title": "The Life List",
+        "overview": "Дочь прощается с матерью и отправляется в путь, чтобы исполнить свои подростковые мечты. В процессе она раскрывает семейные тайны, находит любовь и заново обретает себя.",
+        "popularity": 171.316,
+        "poster_path": "/5fg98cVo7da7OIK45csdLSd4NaU.jpg",
+        "release_date": "2025-03-27",
+        "title": "Список заветных желаний",
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 60,
+        "hashtags": [
+          "#romance",
+          "#comedy",
+          "#drama"
+        ]
+      },
+      "2": {
+        "adult": false,
+        "backdrop_path": "/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+        "genre_ids": [
+          28,
+          878,
+          35,
+          10751,
+          12,
+          14
+        ],
+        "id": 939243,
+        "original_language": "en",
+        "original_title": "Sonic the Hedgehog 3",
+        "overview": "Соник, Наклз и Тейлз воссоединяются против нового могущественного противника, Ежа Шэдоу, таинственного злодея с силами, не похожими ни на что, с чем они сталкивались раньше. Команда Соника вынуждена создать неожиданный союз в надежде остановить Шэдоу и защитить планету.",
+        "popularity": 150.0364,
+        "poster_path": "/sj8AqCcpfdILdP5fhFVJLdx2NfF.jpg",
+        "release_date": "2024-12-19",
+        "title": "Соник 3 в Кино",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 2298,
+        "hashtags": [
+          "#action",
+          "#scifi",
+          "#comedy",
+          "#family",
+          "#adventure",
+          "#fantasy"
+        ]
+      },
+      "3": {
+        "adult": false,
+        "backdrop_path": "/AtciHGgpOU7ngsVhXbS2S5Spdlv.jpg",
+        "genre_ids": [
+          28,
+          35
+        ],
+        "id": 1077782,
+        "original_language": "en",
+        "original_title": "Old Guy",
+        "overview": "Отставной киллер Дэнни Долински по-прежнему считает себя непревзойденным мастером своего дела. И он чертовски доволен, когда его работодатели предлагают ему новою миссию. Но, как оказалось, Дэнни будет лишь помогать «оттачивать ремесло» юному убийце-вундеркинду Вильборгу — пареньку, который здорово стреляет, но помимо «объекта», «кладет» кучу случайных прохожих.  Новоявленной и плохо совместимой парочке требуется устранить лидера конкурирующего преступного синдиката. Но скоро становится понятно, что это задание — всего лишь ловушка: хитроумные конкуренты планируют ликвидировать их самих. Теперь, чтобы выжить, потребуются не только искусство старого киллера, но и молодой задор его напарника.",
+        "popularity": 128.2014,
+        "poster_path": "/8GHtDe4Lkcv9i3AcXCFBNQJcGH1.jpg",
+        "release_date": "2024-12-13",
+        "title": "Киллер в отставке",
+        "video": false,
+        "vote_average": 5.516,
+        "vote_count": 61,
+        "hashtags": [
+          "#action",
+          "#comedy"
+        ]
+      },
+      "4": {
+        "adult": false,
+        "backdrop_path": "/wM2Yxpihaz8ZJDXYlO1mrgyfI8f.jpg",
+        "genre_ids": [
+          27,
+          35
+        ],
+        "id": 1124620,
+        "original_language": "en",
+        "original_title": "The Monkey",
+        "overview": "Братья-близнецы Хэл и Билл находят на чердаке заводную обезьянку, принадлежавшую их отцу. С каждой вспышкой ее механических глаз следуют смерти - жестокие, необъяснимые, похожие на цепь зловещих совпадений. Годы спустя кошмар возвращается, и мрачная игра продолжается. Тьма сгущается, страх усиливается, а реальность становится призрачной, превращая происходящее в пугающий лабиринт. Никто не знает, когда обезьянка хлопнет в ладоши в последний раз и кто исчезнет следом. Незримая сила ведет эту игру, а правила остаются тайной. Основан на одноименном рассказе Стивена Кинга.",
+        "popularity": 108.6636,
+        "poster_path": "/ehrnPGBOA7EDYDYijNQxcEWLW9F.jpg",
+        "release_date": "2025-02-14",
+        "title": "Обезьяна",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 315,
+        "hashtags": [
+          "#horror",
+          "#comedy"
+        ]
+      },
+      "5": {
+        "adult": false,
+        "backdrop_path": "/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+        "genre_ids": [
+          10751,
+          35,
+          12,
+          14
+        ],
+        "id": 950387,
+        "original_language": "en",
+        "original_title": "A Minecraft Movie",
+        "overview": "Четыре неудачника — Гарретт «Мусорщик» Гаррисон, Генри, Натали и Дон, сталкиваются с обычными проблемами, когда их внезапно затягивает через таинственный портал в Верхний мир: странную кубическую страну чудес, которая процветает благодаря воображению. Чтобы вернуться домой, им придётся освоить этот мир, отправляясь в магическое путешествие с неожиданным экспертом-ремесленником Стивом. Это приключение бросит вызов всем пятерым, заставит их проявить смелость и восстановить качества, которые делают каждого из них уникальным творческим человеком.",
+        "popularity": 104.9938,
+        "poster_path": "/3qG3t8UrWZ26N4mFm0K6KMQVYaQ.jpg",
+        "release_date": "2025-03-31",
+        "title": "Minecraft в Кино",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 16,
+        "hashtags": [
+          "#family",
+          "#comedy",
+          "#adventure",
+          "#fantasy"
+        ]
+      },
+      "6": {
+        "adult": false,
+        "backdrop_path": "/9p2tVEEWw1M92Pt63Vbq7EjBpvk.jpg",
+        "genre_ids": [
+          35,
+          27,
+          878,
+          53
+        ],
+        "id": 1084199,
+        "original_language": "en",
+        "original_title": "Companion",
+        "overview": "Джош приобретает себе секс-андроида Айрис. Она должна во всём слушаться своего хозяина и выполнять любые его прихоти, однако со временем начинает замечать странности в окружении и своём поведении. Вскоре Айрис узнаёт, что Джош взломал её и изменил программу, чтобы создать идеальную женщину.",
+        "popularity": 101.8967,
+        "poster_path": "/wxFGXmNmFf9Y38XQVsMIrqIom8f.jpg",
+        "release_date": "2025-01-22",
+        "title": "Компаньон",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 914,
+        "hashtags": [
+          "#comedy",
+          "#horror",
+          "#scifi",
+          "#thriller"
+        ]
+      },
+      "7": {
+        "adult": false,
+        "backdrop_path": "/lsgT602GYV8ts97sKH1gWFtQs1k.jpg",
+        "genre_ids": [
+          16,
+          12,
+          35,
+          10751,
+          14
+        ],
+        "id": 1104845,
+        "original_language": "en",
+        "original_title": "Plankton: The Movie",
+        "overview": "Запутанная история любви Планктона и его компьютерной жены идёт наперекосяк, когда она принимает решение уничтожить мир без него.",
+        "popularity": 86.3262,
+        "poster_path": "/eBKTuP9w4BlRKeGU2BAMPCCcUG7.jpg",
+        "release_date": "2025-03-08",
+        "title": "Шелдон Планктон: Фильм",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 64,
+        "hashtags": [
+          "#animation",
+          "#adventure",
+          "#comedy",
+          "#family",
+          "#fantasy"
+        ]
+      },
+      "8": {
+        "adult": false,
+        "backdrop_path": "/jl2YIADk391yc6Qjy9JhgCRkHJk.jpg",
+        "genre_ids": [
+          16,
+          18,
+          35
+        ],
+        "id": 1064486,
+        "original_language": "en",
+        "original_title": "Memoir of a Snail",
+        "overview": "Австралия, 1970-е. В городе Кранберри живёт одинокая женщина по имени Грейс Пудл. Она любит читать любовные романы и коллекционировать декоративных улиток. Однажды в её жизни появляется Пинки — пожилая и эксцентричная женщина, с которой они становятся близкими подругами. С этого момента жизнь Грейс снова наполняется радостью и яркими красками.",
+        "popularity": 77.6109,
+        "poster_path": "/5tsnwOU1BX1v9ifpFgeVd7i0yMe.jpg",
+        "release_date": "2024-10-17",
+        "title": "Мемуары улитки",
+        "video": false,
+        "vote_average": 7.957,
+        "vote_count": 335,
+        "hashtags": [
+          "#animation",
+          "#drama",
+          "#comedy"
+        ]
+      },
+      "9": {
+        "adult": false,
+        "backdrop_path": "/qUc0Hol3eP74dbW4YyqT6oRLYgT.jpg",
+        "genre_ids": [
+          878,
+          35,
+          12
+        ],
+        "id": 696506,
+        "original_language": "en",
+        "original_title": "Mickey 17",
+        "overview": "\"Одноразовый сотрудник\" участвует в колонизации ледяного мира. После смерти Микки, его сознание каждый раз загружается в новое тело.",
+        "popularity": 69.2313,
+        "poster_path": "/dsHWBit2DkXohujpBIJL7ftPUQF.jpg",
+        "release_date": "2025-02-28",
+        "title": "Микки 17",
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 1026,
+        "hashtags": [
+          "#scifi",
+          "#comedy",
+          "#adventure"
+        ]
+      },
+      "10": {
+        "adult": false,
+        "backdrop_path": "/u7AZ5CdT2af8buRjmYCPXNyJssd.jpg",
+        "genre_ids": [
+          28,
+          35
+        ],
+        "id": 1160956,
+        "original_language": "zh",
+        "original_title": "熊猫计划",
+        "overview": "Международная звезда кунг-фу Джеки берёт под опеку детёныша большой панды Ху Ху. Из-за того что у животного необычные глаза, международный преступный синдикат, жаждя заполучить редкий ген, объявляет награду за поимку Ху Ху. Джеки не может остаться в стороне и вступает с негодяями в противостояние.",
+        "popularity": 72.704,
+        "poster_path": "/xlaeAdTMZVZJe7zNDyOI3Enf7rq.jpg",
+        "release_date": "2024-10-01",
+        "title": "Операция «Панда»",
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 166,
+        "hashtags": [
+          "#action",
+          "#comedy"
+        ]
+      },
+      "11": {
+        "adult": false,
+        "backdrop_path": "/by8z9Fe8y7p4jo2YlW2SZDnptyT.jpg",
+        "genre_ids": [
+          28,
+          35,
+          878
+        ],
+        "id": 533535,
+        "original_language": "en",
+        "original_title": "Deadpool & Wolverine",
+        "overview": "Уэйд Уилсон попадает в организацию \"Управление временными изменениями\", что вынуждает его вернуться к своему альтер-эго Дэдпулу и изменить историю с помощью Росомахи.",
+        "popularity": 66.9084,
+        "poster_path": "/8uOIWsrHvBTeZP4LSf25NomvLb6.jpg",
+        "release_date": "2024-07-24",
+        "title": "Дэдпул и Росомаха",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 6968,
+        "hashtags": [
+          "#action",
+          "#comedy",
+          "#scifi"
+        ]
+      },
+      "12": {
+        "adult": false,
+        "backdrop_path": "/lgkPzcOSnTvjeMnuFzozRO5HHw1.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          35,
+          878
+        ],
+        "id": 519182,
+        "original_language": "en",
+        "original_title": "Despicable Me 4",
+        "overview": "Всё стало ещё чуть более гадким... Грю сталкивается с новым врагом в лице Максима Ле Маля и его роковой подруги Валентины, в связи с чем семья вынуждена бежать.",
+        "popularity": 63.4427,
+        "poster_path": "/ppSdlmiEmfjsdx9jNHfJ2DQ2IVp.jpg",
+        "release_date": "2024-06-20",
+        "title": "Гадкий я 4",
+        "video": false,
+        "vote_average": 7.054,
+        "vote_count": 2659,
+        "hashtags": [
+          "#animation",
+          "#family",
+          "#comedy",
+          "#scifi"
+        ]
+      },
+      "13": {
+        "adult": false,
+        "backdrop_path": "/aGgr2Q07AcyiWPGODoofgZDUEHp.jpg",
+        "genre_ids": [
+          28,
+          35,
+          10749
+        ],
+        "id": 1226406,
+        "original_language": "en",
+        "original_title": "Love Hurts",
+        "overview": "Марвин Гейбл ведёт успешную жизнь риэлтора в респектабельном пригороде Милуоки. Однажды он получает загадочный конверт от женщины по имени Роуз, которую он когда-то бросил на верную смерть. Она сообщает, что Марвина разыскивает его брат Наклз, криминальный авторитет. Оказывается, за улыбкой и хорошими манерами преуспевающего агента по продаже недвижимости скрывается тёмное преступное прошлое.",
+        "popularity": 61.3771,
+        "poster_path": "/350Cvt8tlGZeBUUgvbpJzFwz1Wm.jpg",
+        "release_date": "2025-02-06",
+        "title": "Любовь - Боль",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 136,
+        "hashtags": [
+          "#action",
+          "#comedy",
+          "#romance"
+        ]
+      },
+      "14": {
+        "adult": false,
+        "backdrop_path": "/x8Kdi1OJbewkeGuijcSmUWrYyk2.jpg",
+        "genre_ids": [
+          28,
+          35,
+          10751,
+          878
+        ],
+        "id": 926670,
+        "original_language": "en",
+        "original_title": "Henry Danger: The Movie",
+        "overview": "Опасного Генри и его новую помощницу засасывает в портал в другие миры. Теперь они должны найти дорогу обратно в Дистопию... или застрять в ловушке навсегда.",
+        "popularity": 64.2482,
+        "poster_path": "/dFWj2rOGsqSIX1PHFghbCBgpMnk.jpg",
+        "release_date": "2025-01-17",
+        "title": "Опасный Генри. Фильм",
+        "video": false,
+        "vote_average": 7.769,
+        "vote_count": 188,
+        "hashtags": [
+          "#action",
+          "#comedy",
+          "#family",
+          "#scifi"
+        ]
+      },
+      "15": {
+        "adult": false,
+        "backdrop_path": "/wHVkV7XML3IEFT355QlZ9uUc03V.jpg",
+        "genre_ids": [
+          10751,
+          12,
+          35
+        ],
+        "id": 935766,
+        "original_language": "pt",
+        "original_title": "Chico Bento e a Goiabeira Maraviosa",
+        "overview": "",
+        "popularity": 51.1198,
+        "poster_path": "/d2K7Zhw9yRjzoa4HBbrjt7aqlgT.jpg",
+        "release_date": "2025-01-09",
+        "title": "Chico Bento e a Goiabeira Maraviosa",
+        "video": false,
+        "vote_average": 7.924,
+        "vote_count": 33,
+        "hashtags": [
+          "#family",
+          "#adventure",
+          "#comedy"
+        ]
+      },
+      "16": {
+        "adult": false,
+        "backdrop_path": "/kEYWal656zP5Q2Tohm91aw6orlT.jpg",
+        "genre_ids": [
+          18,
+          35,
+          10749
+        ],
+        "id": 1064213,
+        "original_language": "en",
+        "original_title": "Anora",
+        "overview": "Молодая стриптизёрша из Бруклина внезапно выходит замуж за сына русского олигарха. Узнав об этом, родители парня тотчас вылетают из Москвы в Нью-Йорк. Они готовы на всё, лишь бы расстроить брак.",
+        "popularity": 57.4977,
+        "poster_path": "/lA51ZjHnbVmReYeFBAt2T0LPHAO.jpg",
+        "release_date": "2024-10-14",
+        "title": "Анора",
+        "video": false,
+        "vote_average": 7.052,
+        "vote_count": 1922,
+        "hashtags": [
+          "#drama",
+          "#comedy",
+          "#romance"
+        ]
+      },
+      "17": {
+        "adult": false,
+        "backdrop_path": "/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
+        "genre_ids": [
+          16,
+          12,
+          35,
+          10751
+        ],
+        "id": 1022789,
+        "original_language": "en",
+        "original_title": "Inside Out 2",
+        "overview": "Головной отдел мозга Райли внезапно подвергается капитальному ремонту в тот момент, когда необходимо освободить место для чего-то совершенно неожиданного: новых эмоций.  Радость, Печаль, Гнев, Страх и Брезгливость, которые уже давно успешно руководят эмоциональными процессами, не знают, что и чувствовать, когда появляется некая… Тревожность. И похоже, не только она.",
+        "popularity": 53.9804,
+        "poster_path": "/5fXrqBIvatwSuph7nTuSETBQYxm.jpg",
+        "release_date": "2024-06-11",
+        "title": "Головоломка 2",
+        "video": false,
+        "vote_average": 7.557,
+        "vote_count": 5698,
+        "hashtags": [
+          "#animation",
+          "#adventure",
+          "#comedy",
+          "#family"
+        ]
+      },
+      "18": {
+        "adult": false,
+        "backdrop_path": "/2jllAxMf7dTMt1fw9A1slsaj6Fv.jpg",
+        "genre_ids": [
+          35,
+          53,
+          18
+        ],
+        "id": 1362608,
+        "original_language": "fi",
+        "original_title": "Pikku Siperia",
+        "overview": "Пастор начинает сомневаться в свей вере, когда на его маленький финский город падает метеорит, который порождает суматоху и привлекает преступников.",
+        "popularity": 44.3277,
+        "poster_path": "/hI2X3rkJQJfbdn0P8mgTGORsqXF.jpg",
+        "release_date": "2025-03-20",
+        "title": "Маленькая Сибирь",
+        "video": false,
+        "vote_average": 6,
+        "vote_count": 44,
+        "hashtags": [
+          "#comedy",
+          "#thriller",
+          "#drama"
+        ]
+      },
+      "19": {
+        "adult": false,
+        "backdrop_path": "/sNx1A3822kEbqeUxvo5A08o4N7o.jpg",
+        "genre_ids": [
+          28,
+          35,
+          53
+        ],
+        "id": 1195506,
+        "original_language": "en",
+        "original_title": "Novocaine",
+        "overview": "Нейтан Кейн — скромный парень, рождённый с редким генетическим заболеванием, которое делает его невосприимчивым к физической боли. Когда девушка его мечты оказывается в заложниках у грабителей банка, Нейтану приходится обратить свой недуг в суперсилу.",
+        "popularity": 45.4325,
+        "poster_path": "/sPHcPY7eKqw2FHTMkpwMr1CRQB1.jpg",
+        "release_date": "2025-03-12",
+        "title": "Новокаин",
+        "video": false,
+        "vote_average": 7.025,
+        "vote_count": 121,
+        "hashtags": [
+          "#action",
+          "#comedy",
+          "#thriller"
+        ]
+      },
+      "id": "76f2"
+    }
+  ],
+  "reviews": []
+}
